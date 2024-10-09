@@ -1,7 +1,5 @@
 # Spotify_analytics-AWS
 
-# Spotify Analytics
-
 This project demonstrates the development of a scalable and efficient data pipeline to analyze Spotify data, focusing on albums, tracks, and artists. The pipeline leverages AWS services to manage large datasets, enabling insightful analytics and visualizations. Key features include ETL processing, ad-hoc querying, and dynamic reporting through an interactive dashboard.
 
 ## Project Overview
@@ -17,10 +15,6 @@ This project demonstrates the development of a scalable and efficient data pipel
 - **Schema Discovery:** AWS Glue Crawlers automatically manage schema discovery and data cataloging, enabling the pipeline to handle dynamic data updates efficiently.
 - **Ad-hoc Analytics:** Amazon Athena is used to run SQL queries on the processed data, allowing for quick and efficient exploration and analysis.
 - **Interactive Dashboard:** An Amazon QuickSight dashboard provides key performance indicators (KPIs) to track artist performance, engagement metrics, and top trending genres.
-
-## Key Insights
-
-- Identified the top 3 trending genres from the dataset, providing valuable insights into listener preferences and emerging music trends.
 
 ## Technology Stack
 
